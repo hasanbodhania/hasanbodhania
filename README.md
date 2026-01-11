@@ -1,7 +1,7 @@
 <h1>Hi, I'm Hasan Bodhania! <br/><a href="https://github.com/hasanbodhania">
 
 <h2>👨‍💻 Projects:</h2>
-<p><a href="https://github.com/hasanbodhania">The Web Hub - </a> A college web development project build used HTML, CSS and JavaScript</p>
+<p><a href="https://github.com/hasanbodhania/The-Web-Hub">The Web Hub - </a> A college web development project build used HTML, CSS and JavaScript</p>
 
 
 <h2> 🤳 Connect with me:</h2>
