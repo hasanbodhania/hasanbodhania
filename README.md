@@ -1,6 +1,7 @@
 <h1>Hi, I'm Hasan Bodhania! <br/><a href="https://github.com/hasanbodhania"></h1>
-<p>Level 3 IT student with a strong interest in software development and digital solutions.
-I enjoy solving problems with technology, working with data, and continuously improving my skills through practical projects and learning.</p>
+<p>Level 3 Information Technology student aspiring Software Engineering Degree Apprentice.
+Interested in digital solutions, data, and problem-solving through technology.
+Building practical projects to develop my programming, database, and analytical skills.</p>
 <h2>👨‍💻 Projects:</h2>
 <p><a href="https://github.com/hasanbodhania/The-Web-Hub">The Web Hub - </a> A college web development project build used HTML, CSS and JavaScript</p>
 
