@@ -3,7 +3,10 @@
 Interested in digital solutions, data, and problem-solving through technology.
 Building practical projects to develop my programming, database, and analytical skills.</p>
 <h2>👨‍💻 Projects:</h2>
-<p><a href="https://github.com/hasanbodhania/The-Web-Hub">The Web Hub - </a> A college web development project build used HTML, CSS and JavaScript</p>
+<h3>🎉 Personal Projects:</h3>
+  <p><a href="https://github.com/hasanbodhania/HotelManagementSystem">Hasan's Hotel Management System </a> - A Java-based Hotel Management System project I worked on myself with a GUI built in NetBeans IDE, using MySQL for database management, Java Swing for the interface, and images/PDF receipts to manage guests, room bookings, and check-ins/check-outs</p>
+<h3>🏫 College Projects:</h3>
+  <p><a href="https://github.com/hasanbodhania/The-Web-Hub">The Web Hub </a> - A college web development project build using HTML, CSS and JavaScript in vs code IDE</p>
 
 
 <h2> 🤳 Connect with me:</h2>
