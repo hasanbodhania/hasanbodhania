@@ -22,7 +22,7 @@ Building practical projects to develop my programming, database, and analytical 
 </p>
 <h3>🛠️ Software & Development Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans,visualstudio,oracle" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans,oracle" />
 </p>
 <h3>🗄️ Databases:</h3>
 <p align="left">
