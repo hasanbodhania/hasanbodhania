@@ -2,6 +2,7 @@
 <p>Level 3 Information Technology student aspiring Software Engineering Degree Apprentice.
 Interested in digital solutions, data, and problem-solving through technology.
 Building practical projects to develop my programming, database, and analytical skills.</p>
+  
 <h2>👨‍💻 Projects:</h2>
 <h3>🎉 Personal Projects:</h3>
   <p><a href="https://github.com/hasanbodhania/HotelManagementSystem">Hasan's Hotel Management System </a> - A Java-based Hotel Management System project I worked on myself with a GUI built in NetBeans IDE, using MySQL for database management, Java Swing for the interface, and images/PDF receipts to manage guests, room bookings, and check-ins/check-outs</p>
@@ -10,7 +11,25 @@ Building practical projects to develop my programming, database, and analytical 
   <p><a href="https://github.com/hasanbodhania/The-Web-Hub">The Web Hub </a> - A college web development project build using HTML, CSS and JavaScript in vs code IDE</p>
   <p><a href="https://github.com/hasanbodhania/Spice-Ranch-Ordering-Sytem-College-Project-">Spice Ranch Food ordering System </a> - A college project: a desktop application for Spice Ranch to replace paper-based orders with a multi-page, user-friendly system, built using Visual Basic .NET</p>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🚀 Technologies, Languages & Tools:</h2>
+<h3>💻 Programming Languages:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript" />
+</p>
+<h3>🌐 Web Development:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+<h3>🛠️ Software & Development Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans,visualstudio,oracle" />
+</p>
+<h3>🗄️ Databases:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle" />
+</p>
+
+<h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
