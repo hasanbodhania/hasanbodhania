@@ -8,7 +8,7 @@ Building practical projects to develop my programming, database, and analytical 
   <p><a href="https://github.com/hasanbodhania/student-assignment-tracker-for-College-Uni">Student assignment tracker (for College/ Uni) </a> - A Python-based assignment tracking system I have created that would help myself and students manage deadlines and prioritise academic work using SQLite storage to store all the data.</p>
 <h3>🏫 College Projects:</h3>
   <p><a href="https://github.com/hasanbodhania/The-Web-Hub">The Web Hub </a> - A college web development project build using HTML, CSS and JavaScript in vs code IDE</p>
-
+  <p><a href="https://github.com/hasanbodhania/Spice-Ranch-Ordering-Sytem-College-Project-">Spice Ranch Food ordering System </a> - A college project: a desktop application for Spice Ranch to replace paper-based orders with a multi-page, user-friendly system, built using Visual Basic .NET</p>
 
 <h2> 🤳 Connect with me:</h2>
 
