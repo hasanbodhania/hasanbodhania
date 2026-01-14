@@ -5,6 +5,7 @@ Building practical projects to develop my programming, database, and analytical 
 <h2>👨‍💻 Projects:</h2>
 <h3>🎉 Personal Projects:</h3>
   <p><a href="https://github.com/hasanbodhania/HotelManagementSystem">Hasan's Hotel Management System </a> - A Java-based Hotel Management System project I worked on myself with a GUI built in NetBeans IDE, using MySQL for database management, Java Swing for the interface, and images/PDF receipts to manage guests, room bookings, and check-ins/check-outs</p>
+  <p><a href="https://github.com/hasanbodhania/student-assignment-tracker-for-College-Uni">Student assignment tracker (for College/ Uni) </a> - A Python-based assignment tracking system I have created that would help myself and students manage deadlines and prioritise academic work using SQLite storage to store all the data.</p>
 <h3>🏫 College Projects:</h3>
   <p><a href="https://github.com/hasanbodhania/The-Web-Hub">The Web Hub </a> - A college web development project build using HTML, CSS and JavaScript in vs code IDE</p>
 
